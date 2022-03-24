@@ -1,0 +1,10 @@
+.inp{
+    width: 80vw;
+    height: 2em;
+    font-size: 1.5em;
+}
+.btn{
+    float: right;
+    width: 5em;
+    height: 4em;
+}
